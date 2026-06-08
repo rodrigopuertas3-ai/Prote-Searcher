@@ -1,5 +1,5 @@
 # ProteSearch: 
-Simply enter the chromoprotein name/ID or the link from *www.uniprot.org/uniprotkb*, and **ProteSearch** will extract the following information into an Excel file:
+Simply enter the protein name/ID or the link from *www.uniprot.org/uniprotkb*, and **ProteSearch** will extract the following information into an Excel file:
 - Sequence ID
 - EMBL/GenBank ID(s)
 - Chromoprotein Name
