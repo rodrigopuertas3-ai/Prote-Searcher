@@ -1,4 +1,5 @@
 # ProteSearch: 
+**ProteSearch** extracts the main information of a specific protein and exports it to an easily readible excel. 
 Simply enter the protein name/ID or the link from *www.uniprot.org/uniprotkb*, and **ProteSearch** will extract the following information into an Excel file:
 - Sequence ID
 - EMBL/GenBank ID(s)
